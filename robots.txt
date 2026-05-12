@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pedsrehab.org/sitemap.xml
+Sitemap: https://wolff.sh/pedsrehab/sitemap.xml
