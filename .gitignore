@@ -3,4 +3,5 @@
 .DS_Store
 _kiro_*
 *.output
+*.png
 docs/agent/
