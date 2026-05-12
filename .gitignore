@@ -2,6 +2,5 @@
 .playwright-mcp/
 .DS_Store
 _kiro_*
-SITE_CONTENT_INVENTORY.md
 *.output
-docs/superpowers/
+docs/agent/
